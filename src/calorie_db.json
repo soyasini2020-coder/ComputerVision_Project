@@ -1,0 +1,15 @@
+{
+  "apple": {"kcal_per_100g": 52, "grams": {"small": 120, "medium": 180, "large": 240}},
+  "banana": {"kcal_per_100g": 89, "grams": {"small": 90, "medium": 120, "large": 150}},
+  "orange": {"kcal_per_100g": 47, "grams": {"small": 100, "medium": 140, "large": 180}},
+  "sandwich": {"kcal_per_100g": 250, "grams": {"small": 120, "medium": 180, "large": 240}},
+  "pizza": {"kcal_per_100g": 266, "grams": {"small": 120, "medium": 180, "large": 260}},
+  "hamburger": {"kcal_per_100g": 295, "grams": {"small": 120, "medium": 170, "large": 230}},
+  "french fries": {"kcal_per_100g": 312, "grams": {"small": 80, "medium": 120, "large": 170}},
+  "ice cream": {"kcal_per_100g": 207, "grams": {"small": 70, "medium": 110, "large": 160}},
+  "hot dog": {"kcal_per_100g": 290, "grams": {"small": 100, "medium": 140, "large": 190}},
+  "donut": {"kcal_per_100g": 452, "grams": {"small": 50, "medium": 75, "large": 100}},
+  "cake": {"kcal_per_100g": 350, "grams": {"small": 80, "medium": 120, "large": 180}},
+  "broccoli": {"kcal_per_100g": 34, "grams": {"small": 80, "medium": 120, "large": 160}},
+  "carrot": {"kcal_per_100g": 41, "grams": {"small": 70, "medium": 100, "large": 140}}
+}
